@@ -4,6 +4,8 @@ Write a program that prints "Hello!" to the screen.
 
 Write a statement that prints whatever the user types.
 
+Write a program that prints whatever the user types.
+
 --
 
 Write a program that asks the name of the user and prints "Hello!" and then their name to the screen.
