@@ -8,11 +8,11 @@ Write a class that models an animal that can "say" something.
 
 --
 
-Write a class that models an animal that is a Dog, and have it say what a dog says.
+Write a class that models an animal that is a Dog, and have it speak what a dog says.
 
-Write a class that models an animal that is a Cat, and have it say what a cat says.
+Write a class that models an animal that is a Cat, and have it speak what a cat says.
 
-Invoke "say" on Dog.
+Invoke "speak" on Dog.
 
-Invoke "say" on Cat.
+Invoke "speak" on Cat.
 
