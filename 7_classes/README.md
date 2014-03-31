@@ -12,7 +12,6 @@ Write a class that models an animal that is a Dog, and have it speak what a dog 
 
 Write a class that models an animal that is a Cat, and have it speak what a cat says.
 
-Invoke "speak" on Dog.
+Get a Dog to speak.
 
-Invoke "speak" on Cat.
-
+Get a Cat to speak.
