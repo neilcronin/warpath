@@ -2,7 +2,7 @@ Write a class that models an animal.
 
 --
 
-Write a class that models an animal that eats every day.  Invoke a function that sees if this animal is hungry or not.
+Write a class that models an animal that eats.  Invoke a function that sees if this animal is hungry or not.
 
 Write a class that models an animal that can "say" something.
 
