@@ -13,3 +13,11 @@ Write a statement that prints half your age to the screen.
 --
 
 Write a statement that prints the current date and time to the screen.
+
+--
+
+Write a statement that prints the value of "true" to the screen.
+
+--
+
+Write a statement that prints that value of "false" to the screen.
