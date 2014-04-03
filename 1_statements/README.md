@@ -16,7 +16,7 @@ Write a statement that prints the current date and time to the screen.
 
 --
 
-Write a statement that prints the value of "true" to the screen twice in two different ways.
+Write a statement that prints the value of "true" to the screen, twice in two different ways.
 
 --
 
