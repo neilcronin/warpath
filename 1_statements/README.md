@@ -20,4 +20,4 @@ Write a statement that prints the value of "true" to the screen, twice in two di
 
 --
 
-Write a statement that prints that value of "false" to the screen twice in two different ways.
+Write a statement that prints the value of "false" to the screen, twice in two different ways.
